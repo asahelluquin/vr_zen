@@ -70,3 +70,5 @@
 {"ts":"2026-05-26T21:33:24.933Z","pid":22232,"component":"relay","name":"connection.lost","kind":"event","level":"warn","spanId":"cf354cf9c49341df","data":{"clientId":null}}
 {"ts":"2026-05-26T21:33:24.936Z","pid":22232,"component":"relay","name":"log","kind":"log","level":"warn","spanId":"261edfd7a0c14186","data":{"message":"Client disconnected - sessions will persist until auto-shutdown, reason: Client disconnected"}}
 {"ts":"2026-05-26T21:33:24.937Z","pid":22232,"component":"relay","name":"log","kind":"log","level":"info","spanId":"2de4d6db87164133","data":{"message":"Auto-shutdown timer started due to client disconnection"}}
+{"ts":"2026-05-26T21:36:24.961Z","pid":22232,"component":"relay","name":"log","kind":"log","level":"info","spanId":"8d3edb5680cb4e26","data":{"message":"Auto-shutdown timer fired after 180s inactivity, shutting down: Dedicated client disconnected"}}
+{"ts":"2026-05-26T21:36:24.962Z","pid":22232,"component":"relay","name":"log","kind":"log","level":"info","spanId":"6b4361d372c74402","data":{"message":"Shutdown: Initiating graceful shutdown: Dedicated client disconnected"}}
