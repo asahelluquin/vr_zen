@@ -2330,4 +2330,1317 @@ Received Import Request.
   Time since last request: 0.000028 seconds.
   path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Ray Interactor.prefab
   importAddress: Guid(ad818c36731146e994540a1896ad8f24) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
-Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Ray Interactor.prefab using Guid(ad818c36731146e994540a1896ad8f24) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Ray Interactor.prefab using Guid(ad818c36731146e994540a1896ad8f24) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '2200c79fccc9ad5e77c0b2a5baaeef5b') in 0.1597491 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=551d4b6e8988dc5d9585b5782fc84136 DependenciesID=a0d4d8cdbe42787fb041f8fdb38de443 StaticDependenciesID=3a0bd994ff5e560a0eeee450d4dec7f0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/Text Toggle.prefab
+  importAddress: Guid(6a448845c7017044e8a9f3d711cfe825) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/Text Toggle.prefab using Guid(6a448845c7017044e8a9f3d711cfe825) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '67e32a79d8c8b9a387247b287ba24b4b') in 0.0571765 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=23c1a5105d3b348a6fdf5c9df2cafab3 DependenciesID=e2276eddb1248682dccfce7fe85bcce4 StaticDependenciesID=04ffd2d01e09030ca0d19835af72d8c7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 33
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Training table/Prefabs/Training table.prefab
+  importAddress: Guid(5e93b18aeba68324cb0c6196b3791c1d) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Training table/Prefabs/Training table.prefab using Guid(5e93b18aeba68324cb0c6196b3791c1d) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'c707613404501f05396df33ef6264627') in 0.0073208 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ef22487ff54c04688b0121762dd70139 DependenciesID=b0463c00f03988f0981bfcded5186ff1 StaticDependenciesID=0cc8914699f2fe0b778a5494ef5bfa81 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/TextButton.prefab
+  importAddress: Guid(e5db301629853dd4a99835fa70099d79) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/TextButton.prefab using Guid(e5db301629853dd4a99835fa70099d79) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'c370e6f070d93d93e82b43fff7484c6e') in 0.0249954 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=85fd3f5b603a421d5038706e506b6df5 DependenciesID=307ed8dafda1b18a3fa6efe20ed682ee StaticDependenciesID=3294198e5f20ae68d738f74f7aaaa670 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Blaser.prefab
+  importAddress: Guid(3549fdaf258e11846b85a316c16c699c) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Blaser.prefab using Guid(3549fdaf258e11846b85a316c16c699c) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '819bc9bb469f21cf85abde5dce906ea1') in 0.0665164 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e883735f81ea6dc7f1d92a00bd43bfc7 DependenciesID=74d855b6006cee07f5c3ffb226de1c51 StaticDependenciesID=47dd0c5d941c32fdaf2da697b08398f0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 49
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Climb/Ladder.prefab
+  importAddress: Guid(b3830b3b2f190ee46a9c88433e985221) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Climb/Ladder.prefab using Guid(b3830b3b2f190ee46a9c88433e985221) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '1aeac7b379f895af9cb419b05da23dba') in 0.0544836 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a90677ac8746301250f8d929a5a432dc DependenciesID=64f6da4d17d7a5d8f4abe396f9f0ff9e StaticDependenciesID=d44abaaae86e414f2126dedb2dcaa3ba 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 142
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Teleportation Environment.prefab
+  importAddress: Guid(3e07eccb5e6f459d886de95044adb1d9) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Teleportation Environment.prefab using Guid(3e07eccb5e6f459d886de95044adb1d9) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'f5eed66c68bd11299065efe716a03797') in 0.0443891 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=71c20a45b59181afeac7399fdc9258bf DependenciesID=e8d856edd813de68c0ac34743ca2c6d2 StaticDependenciesID=237c55289d6d529ecf93bfa6e9fa5535 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 161
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Training table/prefabs_scene.unity
+  importAddress: Guid(6ffb808de5788464c91bc809f2f31f9a) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Training table/prefabs_scene.unity using Guid(6ffb808de5788464c91bc809f2f31f9a) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter)Opening scene 'Assets/Training table/prefabs_scene.unity additively'
+LightingSettings: switching bake backend from 2 to 1.
+Loaded scene 'Assets/Training table/prefabs_scene.unity'
+	Deserialize:            1.428 ms
+	Integration:            2.340 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   3.776 ms
+ -> (Import Result ID: '35ad8ca2afc6b72412719be130a36105') in 0.0110132 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=eb928080dfa38d16e588838afcf0ebee DependenciesID=894c933c343182c49bed0a595e349b01 StaticDependenciesID=283ee8d78188c90531468bd0f93c07ed 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_B.prefab
+  importAddress: Guid(9aaafd7584909db6aae1b9e564dc5ef3) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_B.prefab using Guid(9aaafd7584909db6aae1b9e564dc5ef3) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'f388dc70b14f2219e75f153cbebcaf68') in 0.0197844 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f013ca64847e8cfac1ab92ab64f3f709 DependenciesID=d6383685eabf50114d07b26e7735f3ac StaticDependenciesID=6825aad9fc8d3fe0e0bd26777db96835 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Teleport/Blocking Teleport Reticle.prefab
+  importAddress: Guid(a3fde713df4d99042a0403c4be9eea32) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Teleport/Blocking Teleport Reticle.prefab using Guid(a3fde713df4d99042a0403c4be9eea32) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '8bb4a5421e059c045834d24758d321c8') in 0.0104211 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3a794d56b2e5af969545cd6e42d703c6 DependenciesID=3513564c084d760aac4511644e15d366 StaticDependenciesID=b07c1c0e2b9198350299abbf927618c8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_D.prefab
+  importAddress: Guid(18ea0683a7392d274905c95e8ec4544b) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_D.prefab using Guid(18ea0683a7392d274905c95e8ec4544b) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '36a32e5a0272aad86acfc134234ff555') in 0.0176229 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=18469407c20bf238a2e70a7f0c32d10d DependenciesID=31ca2112cf902d4b0f1215ba3df06fd7 StaticDependenciesID=040c2e4674ba5af23734eb38ff3818f7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_F.prefab
+  importAddress: Guid(9d642dd3a2ff904da90e9417ae5cddec) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_F.prefab using Guid(9d642dd3a2ff904da90e9417ae5cddec) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '4ee2b71a4b7178169dbf984aa4c440e0') in 0.0285429 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0f831bddf5b87c3fd254390e166f7cf4 DependenciesID=f29515a8bc0cc266a412ec4555ba6af8 StaticDependenciesID=fc1def75a3be2d3eabf642ad89a5c6be 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoScene.unity
+  importAddress: Guid(319dafa5c80f29f428dc1e0d03f04177) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoScene.unity using Guid(319dafa5c80f29f428dc1e0d03f04177) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter)Opening scene 'Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoScene.unity additively'
+Loaded scene 'Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoScene.unity'
+	Deserialize:            23.135 ms
+	Integration:            139.606 ms
+	Integration of assets:  0.880 ms
+	Thread Wait Time:       -0.003 ms
+	Total Operation Time:   163.618 ms
+ -> (Import Result ID: 'd80d2eb14626c35f71192a879a4b2e36') in 1.1371691 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=22da5cfdd235f2df0343cd769f9533a2 DependenciesID=fcc37e0eebecda158ac609516912ebf4 StaticDependenciesID=9fab771236a503337f61775d31e42dc7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3604
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_B.prefab
+  importAddress: Guid(6a8478d973ae3ac75a084871ef5cbffb) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_B.prefab using Guid(6a8478d973ae3ac75a084871ef5cbffb) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '7ddf3305f4d5c74713b73f610bbd1f67') in 0.0167881 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7d67b2f1f6582b37b501206d06be9841 DependenciesID=5a287215f5a27329cae0f69895e5919b StaticDependenciesID=10bca1ce6cedc1723c011736f289962f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Teleport/Directional Teleport Reticle.prefab
+  importAddress: Guid(893219773891c784ab469a39151879b4) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Teleport/Directional Teleport Reticle.prefab using Guid(893219773891c784ab469a39151879b4) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '4ef86cd0baf5d49aab72d9533b622460') in 0.008509 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b22266d9c298a523d832eb60a0e7a63a DependenciesID=3e9d19bab5a6232a32fbf1ff3b639188 StaticDependenciesID=97959a2da761b7ad693be29ee554f79a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Direct Interactor.prefab
+  importAddress: Guid(2fd3e07afe5b461490fb8e314976b1b0) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Direct Interactor.prefab using Guid(2fd3e07afe5b461490fb8e314976b1b0) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '6aca8f9d26b3114cbcfc79fa045e1e9e') in 0.0183724 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=868067a8bc630f267e9619b965720e15 DependenciesID=caaee0571b343a9d2cdcb886b028e853 StaticDependenciesID=96fbe7a9a4da74afa53d086559d12aea 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Climb/Climb Sample.prefab
+  importAddress: Guid(2ea572d587ee60f44bd5baa3bc2d6503) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Climb/Climb Sample.prefab using Guid(2ea572d587ee60f44bd5baa3bc2d6503) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '7a665dc8d269198739e8fd8c28c24d7e') in 0.2841743 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5df01a22bc53bd3979698634efb7b7fc DependenciesID=c3c9030709149ea9b0e9d27a6a84e505 StaticDependenciesID=0046d4b334bca6d1d39445884c2788cb 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1737
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Climb/Climbing Wall.prefab
+  importAddress: Guid(a0ea40bd139aedc43b0e8374d6139437) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Climb/Climbing Wall.prefab using Guid(a0ea40bd139aedc43b0e8374d6139437) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '9d113a7e0530b9b84ceaf08e10448065') in 0.1248934 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=873a15030d316635ec7e2932caaa1d6c DependenciesID=c434e12c489d9fed1ecf7a2a19f3fa21 StaticDependenciesID=5b52499a68f6f78feebe5f240d3b7332 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 347
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Teleport/Climb Teleport Arrow.prefab
+  importAddress: Guid(ae1968658b9687b47976fe86c062168f) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Teleport/Climb Teleport Arrow.prefab using Guid(ae1968658b9687b47976fe86c062168f) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'bceb59e2f729a67237bbd3e027077671') in 0.0122947 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=43b3d90f54193f6ffbf300c60aa405e7 DependenciesID=ef967824d64a9b18f2cd7a76f55c5cdc StaticDependenciesID=074b7a28b9bd15f10da96d2e4262c5c3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 27
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  importAddress: Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter)Opening scene 'Assets/Scenes/SampleScene.unity additively'
+Loaded scene 'Assets/Scenes/SampleScene.unity'
+	Deserialize:            5.632 ms
+	Integration:            5.091 ms
+	Integration of assets:  0.053 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   10.780 ms
+ -> (Import Result ID: 'bdad331830f567fd3f8c18c6e94f2a5c') in 0.0621649 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4543147fb8c072a66f6cda97710c0f13 DependenciesID=61fad627106aba8aebc712650add97a1 StaticDependenciesID=fa455d23161f90f204651eaa0ae8b141 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Gaze Interactor.prefab
+  importAddress: Guid(b84cd05e1160fe34cab2585022c8cd99) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Gaze Interactor.prefab using Guid(b84cd05e1160fe34cab2585022c8cd99) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '5eb92688da347e68daa4604aad8873f1') in 0.0194621 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5fb715811d8447830590709b4cfc8276 DependenciesID=5c2b08673def196587356d5f1395f145 StaticDependenciesID=54516d1c74e3376009c0ed22996e8933 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Teleport Interactor.prefab
+  importAddress: Guid(c1800acf6366418a9b5f610249000331) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Teleport Interactor.prefab using Guid(c1800acf6366418a9b5f610249000331) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '30223da00d9c5497cbb6c315f4cc46e3') in 0.0208263 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3cbe2685e39d85bbfd74fc819bc1392b DependenciesID=248f9ec41ba032fba53bf2ae38423fc1 StaticDependenciesID=915d567ad62da453aaab248629b32531 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/Showcase.unity
+  importAddress: Guid(ee7b3af939accaf96ac3ac92d34a377b) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/Showcase.unity using Guid(ee7b3af939accaf96ac3ac92d34a377b) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter)Opening scene 'Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/Showcase.unity additively'
+LightingSettings: switching bake backend from 2 to 1.
+Loaded scene 'Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/Showcase.unity'
+	Deserialize:            2.664 ms
+	Integration:            11.478 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   14.151 ms
+ -> (Import Result ID: 'c9738c57c03dd5407a6c6a63ddc15665') in 0.1608557 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=356ea438d150eb274c7c6c81d329ad98 DependenciesID=80c1a93afc542e0fbb87fb78073d62ee StaticDependenciesID=2fd0acdc33727f6898e3598a4eed8bfb 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 385
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Right_NearFarInteractor.prefab
+  importAddress: Guid(b200f6587d118224eba8467281481800) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Right_NearFarInteractor.prefab using Guid(b200f6587d118224eba8467281481800) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'd360b1d68b06e02d902f00b0165374fe') in 0.0246565 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7be3510854ff5e63ad7ee14c7a233bb7 DependenciesID=29a832d63f05f7a70a23895f02882204 StaticDependenciesID=18d02f128ea57e3a165edd1e0bd76d04 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 46
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Far Grab Samples.prefab
+  importAddress: Guid(f5ee409d69254d64da7a3b74d31a5a40) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Far Grab Samples.prefab using Guid(f5ee409d69254d64da7a3b74d31a5a40) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '305d71e92c8fc6cf704d395d3d26063b') in 0.0578441 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3c3a5156c4a7e13131c7acdc7278349c DependenciesID=037fab893503bc21216165c7fc93343d StaticDependenciesID=dee818b8a48880dbfc5c3f45ef12e6ef 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 181
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_C.prefab
+  importAddress: Guid(67d3abe897c93a08e9593b0a183f2bb4) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_C.prefab using Guid(67d3abe897c93a08e9593b0a183f2bb4) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '32539b227667aba481348f5f76b17050') in 0.0205977 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=95cbcdf73dd612e21c4095a7baefbf7b DependenciesID=f5e05cf9359f12144b33408c38271cfe StaticDependenciesID=baa7eae15948655de76fd331af0de193 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Left_NearFarInteractor.prefab
+  importAddress: Guid(3df3e1220f2164f448701a6de8084f92) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Left_NearFarInteractor.prefab using Guid(3df3e1220f2164f448701a6de8084f92) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '88bb9f94f91b0a1e7ba27af9e34bc876') in 0.0254614 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=809a4b1e6ab7b95a7e4e7e1d057f122c DependenciesID=d2f0971741a7a0aa282e59bccfd2f879 StaticDependenciesID=ffff2250df39f582bfc57fdd2436a4cb 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/JapaneseGarden.unity
+  importAddress: Guid(80a26d31b4c6248999e489e0894e9395) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/JapaneseGarden.unity using Guid(80a26d31b4c6248999e489e0894e9395) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter)Opening scene 'Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/JapaneseGarden.unity additively'
+LightingSettings: switching bake backend from 2 to 1.
+Loaded scene 'Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/JapaneseGarden.unity'
+	Deserialize:            1.617 ms
+	Integration:            315.428 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   317.054 ms
+ -> (Import Result ID: '2cdda078859c86ba773724e118747c0a') in 0.4402912 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fd03b5fba4e4a73957f6f11166205069 DependenciesID=771fe0bdc1a4378fbe631ad0c6165cc2 StaticDependenciesID=77d0fbb656e7e2e9bfeee725dbc1e0f9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 333
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/Interactive Controls.prefab
+  importAddress: Guid(7bbb1960bab3e75459304488d8d1ffba) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/Interactive Controls.prefab using Guid(7bbb1960bab3e75459304488d8d1ffba) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '2f1b63874e73b51abf639cdded83bab7') in 0.0999984 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6684ca5b33d3b51cb3455fcb6165991b DependenciesID=faff06bf162b18ba9f34e0c33759566e StaticDependenciesID=a677185443869dcc96fe03efe07342d9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 372
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI Sample.prefab
+  importAddress: Guid(fd28f23af44f73f4a95e33435872ad15) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI Sample.prefab using Guid(fd28f23af44f73f4a95e33435872ad15) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'e778a5c8e169a15f5bc567f17c9b2e71') in 0.1557818 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e1f31321853022314075df697c5a7b78 DependenciesID=66b0dc122c73a455c48aca8081f4a786 StaticDependenciesID=581818dcfe8e9b6092283bb1970061f9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 779
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/Dropdown.prefab
+  importAddress: Guid(870459f1cb8d7b7428337cc5935feb67) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/Dropdown.prefab using Guid(870459f1cb8d7b7428337cc5935feb67) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '0e6e613a3152ae7f19c783feb6a4881b') in 0.0340738 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a502020bb46fdae63ee5a5264f9eb783 DependenciesID=b184c345ce0ea8c705f83ede87a38d2e StaticDependenciesID=92a78a94d809f116e1008d48dff0d0a5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/MinMaxSlider.prefab
+  importAddress: Guid(657321a07c3561043af55547ec4b0ed7) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/MinMaxSlider.prefab using Guid(657321a07c3561043af55547ec4b0ed7) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '485de152942fd311fcf5698f4a4a7f26') in 0.0112032 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2d2857d0b75e5d8d53515b7abefd55ac DependenciesID=c816810d8047dbe39b0b9c2ef92663de StaticDependenciesID=9c6276c2679bb19fe24158bc29b7edfb 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/Icon Toggle.prefab
+  importAddress: Guid(541ed11e270c6994ca5910042c7e04da) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/Icon Toggle.prefab using Guid(541ed11e270c6994ca5910042c7e04da) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '8cfcceb33457ac225beb6584fddd689c') in 0.0123951 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=00a38a62783f10e1ed47d59f9293dd69 DependenciesID=f6d1f153bb1a554eca9ed750abdd89ea StaticDependenciesID=a96d9331470f5f78de8b375e5919924c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Blaser-Long.prefab
+  importAddress: Guid(fe7fcf44eedd467489de26ce92577bc3) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Blaser-Long.prefab using Guid(fe7fcf44eedd467489de26ce92577bc3) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'bceba4254fa638f95244926149f015ad') in 0.0273602 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3aa8a7bcaeffc80ec41e27645d021b92 DependenciesID=7fb462533b0e251a7a33cd2cf55bdd7c StaticDependenciesID=911f7fc60560113a727f13caac3cc45b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 53
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Pot.prefab
+  importAddress: Guid(d5615d616019430d9c2e8727e71c97fb) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Pot.prefab using Guid(d5615d616019430d9c2e8727e71c97fb) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '7598f955239fc43b4f85668285de6f7e') in 0.0180489 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9230ebf95adf15ead0d770511fb36250 DependenciesID=779ba1fece09e4a3d7081cb912962174 StaticDependenciesID=535fc0656c2968f453fcfdf2c5dbbd62 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/GazeActivationZone.prefab
+  importAddress: Guid(4f7b6e4d9c721834e97d07d4cd95bf74) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/GazeActivationZone.prefab using Guid(4f7b6e4d9c721834e97d07d4cd95bf74) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'e1d2d51276f301a2b9c5b90862082235') in 0.0046701 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=81dac14aec833bf38f56963333ec0063 DependenciesID=ab01563d95a6f32e0ac867293397d5f3 StaticDependenciesID=0c14a3cb833116c8682c5e6c55e8d4fe 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/XRI/Settings/Resources/InteractionLayerSettings.asset
+  importAddress: Guid(7b7b8644bded8cb4a84b08ed1c78963a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/XRI/Settings/Resources/InteractionLayerSettings.asset using Guid(7b7b8644bded8cb4a84b08ed1c78963a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1bdc129ffa6ee12b2005076f547e1dc9') in 0.0041302 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c859a90dbd624a4fa6d4cf36e4856fc5 DependenciesID=62c0f8b702fff3b933bf64b9eac0f8de StaticDependenciesID=ba73a9213d5109c42896c8f3920f6450 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/myassets/prefabs/rockSpawner.prefab
+  importAddress: Guid(ba5a89fbdf4e8f9449012a1d5d259160) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/myassets/prefabs/rockSpawner.prefab using Guid(ba5a89fbdf4e8f9449012a1d5d259160) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '56a0368a7b200e6a9adf469d0a824a7d') in 0.0091337 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5d3bb397efdc1cf9897f3083aeb92c89 DependenciesID=476fe5c83944ba6ab729271c10b6d635 StaticDependenciesID=32789573e6b5bc2329d582e50f7ca10f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_A.prefab
+  importAddress: Guid(1d346702b2107531e939003fb256261b) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_A.prefab using Guid(1d346702b2107531e939003fb256261b) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'bae46d1719271c5e765872e4434d8eff') in 0.020314 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=11b69d9b46ef793080c46c7241d73add DependenciesID=4ad143895bd6d5c5d6aa05d962df9797 StaticDependenciesID=f35822fc35a4877789ba85d8355c2929 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Torus-Cut.prefab
+  importAddress: Guid(833cb867d186193418fc107735ae3139) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Torus-Cut.prefab using Guid(833cb867d186193418fc107735ae3139) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'b3afb3c22b1740fbbfef24064383f3ad') in 0.0155394 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=10014dc569c54d9390cbf394352e01af DependenciesID=ba1b62b25ea0a2d0158421518ba61285 StaticDependenciesID=08feef48fd5b110432320abb9c49900a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Teleport/Snap Teleport Anchor.prefab
+  importAddress: Guid(037ba65d346be2a48ad006b9a9a3873e) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Teleport/Snap Teleport Anchor.prefab using Guid(037ba65d346be2a48ad006b9a9a3873e) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '0409fa714822aa09fec947483117b71d') in 0.0159056 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d119ec90d9e92887ac56da07badc7958 DependenciesID=c5a06e6e6cfd79228c4c39dd376dd2ca StaticDependenciesID=00ebe91618a0eca3e116fd2ddacc3cf3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 47
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Climb/ClimbTeleportReticle.prefab
+  importAddress: Guid(6eb816e9b7ce30f4cadff3d4ad7ad10c) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Climb/ClimbTeleportReticle.prefab using Guid(6eb816e9b7ce30f4cadff3d4ad7ad10c) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '14b28077b38c0bd216ba8cbf57eed013') in 0.0127133 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3d353fe89105ecc5982cb98faac0eda7 DependenciesID=8d1ff1e46a0b9f05ce252445648eec87 StaticDependenciesID=a5da37307f2e38a7562d0daf7d5ecd2a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 40
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Cylinder.prefab
+  importAddress: Guid(2ed984a58a974166bf92c82a74380454) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Cylinder.prefab using Guid(2ed984a58a974166bf92c82a74380454) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'dd52e26fa999c788af5537a638b37260') in 0.016307 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=850b0e901ec8d9cd544e2eaa23202e9d DependenciesID=57c3333825bbeebb38ed7119a1be1e18 StaticDependenciesID=a4e3f4bc36352623bce8bbf135f42679 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 37
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/XR Origin (XR Rig).prefab
+  importAddress: Guid(f6336ac4ac8b4d34bc5072418cdc62a0) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/XR Origin (XR Rig).prefab using Guid(f6336ac4ac8b4d34bc5072418cdc62a0) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '02f4807a200d86f0fb47e224eb1436b9') in 0.1663807 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=860bb81b1795bc1418e00b368de50a61 DependenciesID=556440f96ce930bb8d04103083cf0821 StaticDependenciesID=b82cb1657e6c22751fffecdc665c275e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 525
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_A.prefab
+  importAddress: Guid(411d79dbbe4633332bf08419508ecdd1) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_A.prefab using Guid(411d79dbbe4633332bf08419508ecdd1) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'b58eb67cca1dc7fce9057794cae81e7b') in 0.0167163 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=96e32dea0fad3a71bb668f17362dae01 DependenciesID=d53fe146e3401248ea70df721828ad06 StaticDependenciesID=380cb2cc0184297a881deafc2642c882 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Controllers/XR Controller Right.prefab
+  importAddress: Guid(9f3369e30fbd31f4bb596b1a99babe83) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Controllers/XR Controller Right.prefab using Guid(9f3369e30fbd31f4bb596b1a99babe83) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '316c401c4d0c13cdba33e80b9ffc3a10') in 0.0275617 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=42bde59851af02d20954b4f043f1c146 DependenciesID=a50f11d2cd0759c726e9514e94458e38 StaticDependenciesID=1cd543acb08f01a83875dbdd41858c6b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 61
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Confetti.prefab
+  importAddress: Guid(7942e6544a2b2ae48bcf988d9aed838d) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Confetti.prefab using Guid(7942e6544a2b2ae48bcf988d9aed838d) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '99d61cafa31aeef60f7368b5059ecdb8') in 0.013835 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=aecf1d1b881e3e3d4b243135a8e056e4 DependenciesID=173e1ba1a474cde3fdb072a89b626250 StaticDependenciesID=d0cb38976e3d697ac32491398da8ad9d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Poke Interactor.prefab
+  importAddress: Guid(27024f5809f4a4347b9cd7f26a1bdf93) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Interactors/Poke Interactor.prefab using Guid(27024f5809f4a4347b9cd7f26a1bdf93) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '7f814eae3c900e6d902effb8ac40dabc') in 0.009159 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a4831c3dfa577e958215bd456ab8dd56 DependenciesID=b2ea990205be1c1e88a5499c80ecc6f1 StaticDependenciesID=e706c3d8624bbfdfdc270d4c7463729a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_E.prefab
+  importAddress: Guid(f6208658c4d45bf5c944dd7806489932) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_E.prefab using Guid(f6208658c4d45bf5c944dd7806489932) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'c55e56e0ec71a7ee8647c78e889eaa23') in 0.0190635 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6c43f8f3e1c74a928980d2c6acf58096 DependenciesID=03a7f93e13608e45cbb25a8bb72babf0 StaticDependenciesID=4fab5a051bba896b6628f15c13f45dba 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables Sample.prefab
+  importAddress: Guid(6821e1b7f44d8c44b8a2ba02f37309d5) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables Sample.prefab using Guid(6821e1b7f44d8c44b8a2ba02f37309d5) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '56403669b4be17b883c15b9dce9eb925') in 0.0399423 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9a4498bbe9c95152e824edbc12bd0b32 DependenciesID=e8c87fc644bd92c226b49a05aa086c52 StaticDependenciesID=80d5e633089de55d9b85bc490d2aa5b6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 144
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Poke Interactions Sample.prefab
+  importAddress: Guid(88246f8e9c3765d49be8da34eca3c630) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Poke Interactions Sample.prefab using Guid(88246f8e9c3765d49be8da34eca3c630) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '03b9723a456e9cb3055248226f6dc3ca') in 0.058579 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9dc6b5a947c742b5d4b74d4da7a7d690 DependenciesID=e3446ece1d6980afc2c195e3244cad3f StaticDependenciesID=b8cb0ea0d2f47c5be8500953eb903ecf 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 159
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Controllers/XR Controller Left.prefab
+  importAddress: Guid(1392f805216c47742996d4742c80721c) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Controllers/XR Controller Left.prefab using Guid(1392f805216c47742996d4742c80721c) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '71d36477699b88886e0080b7bccdd373') in 0.0252493 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3d9ae004afe04d8a20488706bdac8564 DependenciesID=5264d88abf698d8969a609cdb5d01abf StaticDependenciesID=385d734d9f389ffe05f61a2296a18183 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 61
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/Scroll UI Sample.prefab
+  importAddress: Guid(0cbc0856f0fb8d84a81be5dea463c369) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/Scroll UI Sample.prefab using Guid(0cbc0856f0fb8d84a81be5dea463c369) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'efc9bc5d9bc6311ede75b6073eb9b8c4') in 0.0393281 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7adad06723f9939aa2bb8e86685d7798 DependenciesID=6c055e3e444cd9f3e210b36fd9935ddc StaticDependenciesID=570b597583a1156fae6d8b9ce784cb2e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_E.prefab
+  importAddress: Guid(783170933d5c442f2a2ab32f0fb0502a) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_E.prefab using Guid(783170933d5c442f2a2ab32f0fb0502a) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '6a9c71123991fea04b1f377c605dd782') in 0.0219915 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d3aaf830761b65ef9cacadfaa4e64994 DependenciesID=b89c0f0af789549665112364ab143cea StaticDependenciesID=64ba80d17c5bd904740f9f0aaaa98133 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/InteractionAffordance.prefab
+  importAddress: Guid(eb9104ef66b7305468adb3697fdeed5e) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/InteractionAffordance.prefab using Guid(eb9104ef66b7305468adb3697fdeed5e) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '25d91f08b49adbb0f5785c26360950dc') in 0.0107171 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fc225161dd96e8dfb1d0ea3554bdb4d2 DependenciesID=bd33520b6e2b1f8d2686286c3ab5ce0c StaticDependenciesID=dbfe4d1d980886cc0ea0273808fbfd97 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Teleport/Teleport Area.prefab
+  importAddress: Guid(beb4e2871579447497fe41dfb108e2cd) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Teleport/Teleport Area.prefab using Guid(beb4e2871579447497fe41dfb108e2cd) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '9a7b20f8f333f392d5f4d838be15c20a') in 0.0085408 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3f15dc0259da64016500c26895879619 DependenciesID=f7123c85cb4c8a51a7462a88942d50bf StaticDependenciesID=4f429598501422b6748c32bddc753610 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_C.prefab
+  importAddress: Guid(23af1a39b0c5720b898eb5eefad5a1b7) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_C.prefab using Guid(23af1a39b0c5720b898eb5eefad5a1b7) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '2993d9df89e594818760b10a635d7372') in 0.0177389 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=58e30f1f6902b289b7b6b1d6c2f542fe DependenciesID=3e325be926b851db0804d8e3e4ddd349 StaticDependenciesID=65da4f64b7a35e6b2ab349a065084b05 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Cube.prefab
+  importAddress: Guid(2e16046ebcbcb6742a86569d82e56cce) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Cube.prefab using Guid(2e16046ebcbcb6742a86569d82e56cce) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'b8456c4d08f908677bccae175d91cc94') in 0.0128497 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a46d781314cbf3b6dafd7fab88c31ba9 DependenciesID=ea309a14a687f82bd864297da891bd9e StaticDependenciesID=af3ff163d5124a7fc08fb051f660b50d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_D.prefab
+  importAddress: Guid(261441bc3708ec7aa8a2c288c3fab3ef) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_D.prefab using Guid(261441bc3708ec7aa8a2c288c3fab3ef) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '777a87f043c0633b734467a5d65de086') in 0.0205845 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ff03bc07bfcbde3acba841f91024481a DependenciesID=a17b44b9c2aab9b354e585bf6c1c87bb StaticDependenciesID=6479fe851a51f7cf1b7f5559d00a8fa3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/ModalSingleButton.prefab
+  importAddress: Guid(c24a7635b5761984d81cf6c4aac26e0d) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/UI/ModalSingleButton.prefab using Guid(c24a7635b5761984d81cf6c4aac26e0d) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '85539505ff94cc2d4e199c90991b9c90') in 0.0328521 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cfda7cf2dbebc9ee84cde3d839f16a30 DependenciesID=f570b07454fefe77115eb42239392dd6 StaticDependenciesID=ea14a896b7cd90e543621e11a32fc250 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 70
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/TunnelingVignette/TunnelingVignette.prefab
+  importAddress: Guid(6c8af5c8012f01440af6cb2bc3eb987c) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/TunnelingVignette/TunnelingVignette.prefab using Guid(6c8af5c8012f01440af6cb2bc3eb987c) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '6ad63ccbbb8e1d32eee295815755499d') in 0.0073637 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cc04d630c0b1ea9a1d2ff323b970a310 DependenciesID=ad3ab625eb41176475e1b67aa666dc96 StaticDependenciesID=f2bb8c6eff5e6dbb971192e906781bd0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Affordances/HighlightInteractionAffordance.prefab
+  importAddress: Guid(6b12f432fa58c224baf0d659706362be) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Affordances/HighlightInteractionAffordance.prefab using Guid(6b12f432fa58c224baf0d659706362be) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '7f8d76f1d29f42e2f5d213aaaa9d6753') in 0.0075903 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cdb5872a4efb725ccc08680abcfa0829 DependenciesID=d49e3fca733f1e8dbe07a694b2385db3 StaticDependenciesID=7752d2370b739d43d570b14d858ca07b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Torus.prefab
+  importAddress: Guid(521327bdbcb341f782d36f02cab76cb0) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Torus.prefab using Guid(521327bdbcb341f782d36f02cab76cb0) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'b9b20200a8ac4c2694cd52957169e7b0') in 0.018929 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=980e830c11713b6cfd47059135a6f439 DependenciesID=53e18585f8f0e64efd00766cb2367e45 StaticDependenciesID=6ea8caa6a111908b3fb9bc1310b857a3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 37
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_B.prefab
+  importAddress: Guid(488c1b23b5470bb4986ad7d362420766) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_B.prefab using Guid(488c1b23b5470bb4986ad7d362420766) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '20f3d139407a5673b78503b3808ecd61') in 0.0179533 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8df0eea1e5d7da2e5ddf3afbe671e2a3 DependenciesID=da42c54d81187f79e3a8009d1c69c93d StaticDependenciesID=5b08ad8e64f30efd7ee73101fb33169f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Push Button.prefab
+  importAddress: Guid(76f3439a0ae796e4b81bee3f91f888ee) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Interactables/Push Button.prefab using Guid(76f3439a0ae796e4b81bee3f91f888ee) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '3886424b001ec7980d8ece42352d5dbb') in 0.0143936 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4d1f9afcd9ce7ea0f6c05a2fe907521f DependenciesID=f6bb9fae13debbfd6f45f6c9f6a351ee StaticDependenciesID=670740e14683611a772bd6d3ae73dda2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 45
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_C.prefab
+  importAddress: Guid(eba8e66cbe98e874f97ecf77638129b2) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_C.prefab using Guid(eba8e66cbe98e874f97ecf77638129b2) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '3250ee7e128f51fb86feb0e1e86678ba') in 0.0246807 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3da7f3904740daf9d6b9fc0e4e583599 DependenciesID=703daf7ca4d09bd072a3246794af8099 StaticDependenciesID=81165bc643e3ad9be516d17814c47b9d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Affordances/PokePointerAffordance.prefab
+  importAddress: Guid(bb91fcbcb3cc896468b372b1c762bfab) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/Prefabs/Affordances/PokePointerAffordance.prefab using Guid(bb91fcbcb3cc896468b372b1c762bfab) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: 'e438e99e845baced2ff8652c1a97bb99') in 0.0089713 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7d38d5f4a7cce204dd11908ea8072f9a DependenciesID=4f00a49d0440cda3f5e6450e76939428 StaticDependenciesID=9c7b817752cd755372b1e31c88f05242 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_D.prefab
+  importAddress: Guid(5c8f8dde9e3fb58dda8f56008939d4fd) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_D.prefab using Guid(5c8f8dde9e3fb58dda8f56008939d4fd) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '6df35e0bb92fe43471e0d4220f92819d') in 0.0177227 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=484277bef6f6b85895744d662895289e DependenciesID=2c43eb120590fe9820af22cef84a1e32 StaticDependenciesID=99cb7d8b5c379f50a9faa5967dabbfc3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Teleport/Teleport Anchor.prefab
+  importAddress: Guid(fad94b617f0540568dbf4c9c4011248c) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.4.1/Starter Assets/DemoAssets/Prefabs/Teleport/Teleport Anchor.prefab using Guid(fad94b617f0540568dbf4c9c4011248c) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (Import Result ID: '22fef3d2d239ed0e65fe706ae36c511e') in 0.0086796 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f90c54b8f88a757cc3581908a9a687c DependenciesID=57b9b997849e18bba15deaf0d8c29b00 StaticDependenciesID=90a37115154295965e3b0c3dd2ca4491 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.337753 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_D.prefab
+  importAddress: Guid(5c8f8dde9e3fb58dda8f56008939d4fd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_D.prefab using Guid(5c8f8dde9e3fb58dda8f56008939d4fd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'cba6440966a687afedcf173f1d6f5eaf') in 0.176863 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=332ef5ce89f6ec8622e887e8c37f212a DependenciesID=c3b95448032806d80a4ab97a9ed3582d StaticDependenciesID=872727bc1184bcf19b60d4bdd9b7ea1d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_rock.mat
+  importAddress: Guid(1f420555c987bebdb81915cd43a47494) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_rock.mat using Guid(1f420555c987bebdb81915cd43a47494) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'bc877b7f4b4233ef512759c19021a428') in 0.0054519 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=69ab23c0db5a7b5e0a4b8ff1ff9ec036 DependenciesID=f0cded0d97ecc504152af9112c434163 StaticDependenciesID=960942155e3fc83f369ba481b837ec39 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/Grass_005_BaseColor.mat
+  importAddress: Guid(2dd068ddd8246145ca36f895301918ca) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/Grass_005_BaseColor.mat using Guid(2dd068ddd8246145ca36f895301918ca) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4e5c531eb75f30cfe645821fd081621f') in 0.0036237 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a6b7ce99a6981538026407946890a29a DependenciesID=d68a7fddb88078383dc4e43cebdaf5c5 StaticDependenciesID=90c5e1c5c68850b95ddcf50ccc6259a5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_dirt_01.mat
+  importAddress: Guid(83185657e39575bbcbed2a7fb5a47cca) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_dirt_01.mat using Guid(83185657e39575bbcbed2a7fb5a47cca) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '14264322654a6486401ffda36388d874') in 0.0055508 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7c13bd9039428d0b14c5a7278a1b35fb DependenciesID=e3668276a835b2751dbdcd1ac9b278e1 StaticDependenciesID=15d74c2c928625a3b6cf74311a5b856d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_C.prefab
+  importAddress: Guid(67d3abe897c93a08e9593b0a183f2bb4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_C.prefab using Guid(67d3abe897c93a08e9593b0a183f2bb4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'd25f77e38887263c6a7147a6fc9f97f6') in 0.1392922 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=631ce801c48418239e3c15104dac4db3 DependenciesID=332afc831ebf17c01e0779be8e2e7325 StaticDependenciesID=bff66330d1e166a2b015d9852e38c9e8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_grass_01.mat
+  importAddress: Guid(9f14e308898371238a84a2c559d3a217) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_grass_01.mat using Guid(9f14e308898371238a84a2c559d3a217) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '24d76bb76a64b1eb900b60b045b53a54') in 0.0086498 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cb2a9e46eaba01315be048850e0bd9db DependenciesID=eed90944e208a6d67add495eb0df52b7 StaticDependenciesID=554d150496c046ee78dc9ca50f47fec8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/Ground_Wet_Pebbles_001_basecolor.mat
+  importAddress: Guid(a542b962dc7df9684abb6aa51fcf3284) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/Ground_Wet_Pebbles_001_basecolor.mat using Guid(a542b962dc7df9684abb6aa51fcf3284) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'cf6fbd26075cc005230b712e66eb66c3') in 0.0065486 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bc34290b5744090d28335e48488a6635 DependenciesID=5fd5c701a79346b81daa2013f70429f3 StaticDependenciesID=c079ff5d114a85f0e2ed29fc1ddff6ad 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_B.prefab
+  importAddress: Guid(9aaafd7584909db6aae1b9e564dc5ef3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_B.prefab using Guid(9aaafd7584909db6aae1b9e564dc5ef3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e77d78c6473d913f4b7dd9ec0c610d1d') in 0.0126171 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7c67ab42b75e3671591595427d5c7464 DependenciesID=c49a93b4f10bb347c4535226624f8fcb StaticDependenciesID=873f43780da540e9fa941ad78f397621 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_E.prefab
+  importAddress: Guid(f6208658c4d45bf5c944dd7806489932) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_E.prefab using Guid(f6208658c4d45bf5c944dd7806489932) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b5021b59d85d0cef15425829ebb2ad56') in 0.0115713 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0d70718d6d74f370fc93aa933ba8c8a6 DependenciesID=d756d0992144f3ffd72f9aafad86bfa4 StaticDependenciesID=fc2574b7a5d6ed6c4c2035a2c9beccd5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_wet_dirt_01.mat
+  importAddress: Guid(45f0d0a515fa2cf22878c2e5b885c314) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_wet_dirt_01.mat using Guid(45f0d0a515fa2cf22878c2e5b885c314) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a141de67d6ff6be19cb456fe4eb349b3') in 0.0045208 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0a22a322dd9d19886ddf2490271d9d7c DependenciesID=313de8b4c2cb6a20966ee62a895f1aa8 StaticDependenciesID=6791154188e3315e5c5dfdb23c4cf3c7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_D.prefab
+  importAddress: Guid(18ea0683a7392d274905c95e8ec4544b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_D.prefab using Guid(18ea0683a7392d274905c95e8ec4544b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e244f7d45f97f2d439d5ada133c70763') in 0.0111065 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=576bde47837dfb19b88d381327ffd5ec DependenciesID=67b8100eaa2d2bf31419e70aad9b8869 StaticDependenciesID=b12659ef537faf0d28bc788c413f2c9a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_B.prefab
+  importAddress: Guid(6a8478d973ae3ac75a084871ef5cbffb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_B.prefab using Guid(6a8478d973ae3ac75a084871ef5cbffb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6003e23051678de1f35db1adf5bcd140') in 0.0105079 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=09a975e387af7c6ac49504b3d3380e9a DependenciesID=ebcb6dce75f5fadda9cdaa932969ba8e StaticDependenciesID=21ca02d7763af2133a784300ac302a4a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocoo_jg_torii.mat
+  importAddress: Guid(b79139d6f5d25511b99bbda5b80c4caa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocoo_jg_torii.mat using Guid(b79139d6f5d25511b99bbda5b80c4caa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '92a0dbc1309e02659ff957a172e2f5ac') in 0.0045951 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1d20004bccfdf1487fc1462539f33d8a DependenciesID=79df7f6afc59ed3c674510cf13e55cbf StaticDependenciesID=775ca9ec37db52fdaf1624eb46b48746 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_F.prefab
+  importAddress: Guid(9d642dd3a2ff904da90e9417ae5cddec) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_F.prefab using Guid(9d642dd3a2ff904da90e9417ae5cddec) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e29b3acde328f78074ce91e08c1de4fb') in 0.0103462 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5c987a2dbec21b50733e050933517a88 DependenciesID=b0454a2d9a859279dce883cc606fdceb StaticDependenciesID=f1d9a6b4c8ec93ef90020b25a93e77f7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_E.prefab
+  importAddress: Guid(783170933d5c442f2a2ab32f0fb0502a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_E.prefab using Guid(783170933d5c442f2a2ab32f0fb0502a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '663e2041e218c9accc15df6730c85025') in 0.0110685 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7fd29a3be425d58fa0de0a2ddde478ad DependenciesID=8abc89177fb842e8584d76859ce04f6d StaticDependenciesID=bb09322b88c6649a6b12cde6ce80995d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_D.prefab
+  importAddress: Guid(261441bc3708ec7aa8a2c288c3fab3ef) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_D.prefab using Guid(261441bc3708ec7aa8a2c288c3fab3ef) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8afa83c2ea6c1c28b63f80f207fdc274') in 0.0117446 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2ae7233e8cf64631ead68678f3c43ef7 DependenciesID=984a2772ebe8b5bcff656852ac11bd0b StaticDependenciesID=d1a463388fe4a6044a6a9c9f8b4d0300 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_grass_03.mat
+  importAddress: Guid(caa5a0a3cca623af391273878a049f01) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_grass_03.mat using Guid(caa5a0a3cca623af391273878a049f01) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '5c2179018f63ff9401462df93dd158aa') in 0.0074143 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b1ac37c40d02090f6a5a4b9f7025ae22 DependenciesID=b7abd6eedb5e14be406981cf3031f2c4 StaticDependenciesID=5f67ea5a0011987a2600ec6de785bfb2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_C.prefab
+  importAddress: Guid(23af1a39b0c5720b898eb5eefad5a1b7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_C.prefab using Guid(23af1a39b0c5720b898eb5eefad5a1b7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'ce9a171346a9ec02e72b4fde3187e52f') in 0.011828 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b31d6d147463a0bb9fcefa21651ed7dc DependenciesID=f323a40fa741b933b63cd047c48da790 StaticDependenciesID=2091bb7f802cc0deb80c3ef66f16db29 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_C.prefab
+  importAddress: Guid(eba8e66cbe98e874f97ecf77638129b2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_C.prefab using Guid(eba8e66cbe98e874f97ecf77638129b2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'ac2e7f39a19bbd5d54526008f9c5039a') in 0.0131257 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c29683a4c38ab96b0e855826e5002969 DependenciesID=481be36f30366c9e91c19574dbe9e492 StaticDependenciesID=210d9f6d379350e2e45328625084c9d1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/CalibrationFloor.mat
+  importAddress: Guid(3a0079caf67afc01eae833b898b39a70) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/CalibrationFloor.mat using Guid(3a0079caf67afc01eae833b898b39a70) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '0486fc958aae8e9f16b722c76733a63a') in 0.0067689 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3f08a0a1a0d79f3d7475a2af2b9ebc1f DependenciesID=3add048c5b7f898230e3c4d24ba2b76d StaticDependenciesID=1326ef3462d98cbe8cb9547f31dbe0ba 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_B.prefab
+  importAddress: Guid(488c1b23b5470bb4986ad7d362420766) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_B.prefab using Guid(488c1b23b5470bb4986ad7d362420766) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a4e08bde85b6dab9dd8075d1a0f30da3') in 0.0136894 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3fd47981857505cfc0d772996134a230 DependenciesID=fafc1c2b344681bdc8b69dd33407bbe8 StaticDependenciesID=981a25ec890094ae31513284d2b1f65c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/Pebbles_020_basecolor.mat
+  importAddress: Guid(d6575047926a1bcdbb5b54ddb8eb98b5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/Pebbles_020_basecolor.mat using Guid(d6575047926a1bcdbb5b54ddb8eb98b5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '5581536fbc66bdadbda32888ee44f8b4') in 0.0073321 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=db59640994cd476e28e596812e432c78 DependenciesID=1e49b5dfd7288a660a7d92acd1c7e67b StaticDependenciesID=8f17bc575efff5ab5999d46dfdba43dd 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_grass_02.mat
+  importAddress: Guid(f92749bb6fdc2d2578dff44811e9739d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_grass_02.mat using Guid(f92749bb6fdc2d2578dff44811e9739d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6be3aa43e2b6bd174659cceb689f4438') in 0.0052491 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8cf3b00b00968b36a23eba04e38d5603 DependenciesID=37cea51e88d599a3be654b93504f14a7 StaticDependenciesID=3134db02cd202c47461248b82e0aa4ae 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_A.prefab
+  importAddress: Guid(1d346702b2107531e939003fb256261b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_A.prefab using Guid(1d346702b2107531e939003fb256261b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e3a7597f3bbd6dc562c4bb9e1e283aa1') in 0.0122378 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c15bc8a6c5ccb77b6e4c2f770754b6d6 DependenciesID=c39e6094e58d5243d5f734335ca5f9af StaticDependenciesID=a45852f40835236976055bd124cda51a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Training table/Materials/Training table.mat
+  importAddress: Guid(38a44a6d811c7b948b52e25d48a7f404) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Training table/Materials/Training table.mat using Guid(38a44a6d811c7b948b52e25d48a7f404) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c53d07465273558a7a2ac75430d91cbc') in 0.0105588 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=94ad28968efc13b9b3d060554cd4a8f3 DependenciesID=6698c3e5216238a96563be493948f1a2 StaticDependenciesID=802145ac6eb876c42daa16d268ed022a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_A.prefab
+  importAddress: Guid(6e92187b7f5500614b9ca0ab3b1812a0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_A.prefab using Guid(6e92187b7f5500614b9ca0ab3b1812a0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '059292536a1159917b1cc6bd99aadeeb') in 0.0108872 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=df5692796c5623d5a01fe77bcdd79af0 DependenciesID=74dca02e288ffb35f532016fd8f14ece StaticDependenciesID=4474aafa3b49f11e40036ce63cf404c8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_A.prefab
+  importAddress: Guid(411d79dbbe4633332bf08419508ecdd1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_A.prefab using Guid(411d79dbbe4633332bf08419508ecdd1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c548de8680494d2afe7ef2fd3e17e57d') in 0.0211937 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f89df5feee33a0a2cff21637de4b21e8 DependenciesID=be9d3c91a5972df344a15d9772cb4ba4 StaticDependenciesID=c6e635533a58969ea16c40ab4ae1664c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/Pebbles_020_normal.mat
+  importAddress: Guid(4224071a3b93b8e90abdb07b0da864ef) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/Pebbles_020_normal.mat using Guid(4224071a3b93b8e90abdb07b0da864ef) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '24975d6690abc0cbe10c03c9dae66233') in 0.0051594 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d4cf6a428c0bec1774cc1c8fdc6b3edb DependenciesID=f11328b2567f1f5b255f0e1124e14edc StaticDependenciesID=7087d0e48be2abb229e1cec927ad6bce 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1625.958918 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/Broccoli
+  importAddress: Guid(841e29409f10f48b2b5e4b2965126a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/Broccoli using Guid(841e29409f10f48b2b5e4b2965126a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'd209db443c3280d202c831d7dc4a6123') in 0.0009453 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=86c0c2739afb6c03358c351381129d56 DependenciesID=738d6af7930ca4480a9116965b828636 StaticDependenciesID=aa8c2be6ee920c2c88549fc924115e47 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.541970 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/Broccoli/Controller
+  importAddress: Guid(80ba32c0d216e63a393fb3561eea532a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/Broccoli/Controller using Guid(80ba32c0d216e63a393fb3561eea532a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '16316b1780da8643314a0879ea66f520') in 0.0005397 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=88b3a782efac23a453d7d47ee7f9d012 DependenciesID=fdb25f315378a7d341f9efc73d5c7bd9 StaticDependenciesID=add1c375ec88e0ea18b9af4f7137a665 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.892932 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_A.prefab
+  importAddress: Guid(411d79dbbe4633332bf08419508ecdd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_A.prefab using Guid(411d79dbbe4633332bf08419508ecdd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '67b03eb464c7d59600cca6af168115da') in 4.8449286 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fca125a4b047d86e17a2dab2d94c0b8a DependenciesID=b42c53e4ff447d55d0e0334922b02744 StaticDependenciesID=a075c101b9cf147a0c4152aee919c750 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_D.prefab
+  importAddress: Guid(5c8f8dde9e3fb58dda8f56008939d4fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_D.prefab using Guid(5c8f8dde9e3fb58dda8f56008939d4fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'fced7181341991cfd131c4108bcc3433') in 0.051859 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d3092526cc8d16f6d8c997001083941a DependenciesID=128aa1ca0930bfd2f92db71d17c9734d StaticDependenciesID=6950636b9af7da10325cc4a40fd18048 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_E.prefab
+  importAddress: Guid(783170933d5c442f2a2ab32f0fb0502a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_E.prefab using Guid(783170933d5c442f2a2ab32f0fb0502a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '2cadc4e40b74f80480c5639ca1482755') in 0.0491207 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=efbb1da56017bd0bd82de69b33ac31bd DependenciesID=865a449d5236134440f3d89c39637c26 StaticDependenciesID=e0ed2b8236e4c602e2716e187af3d4c9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_B.prefab
+  importAddress: Guid(488c1b23b5470bb4986ad7d362420766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_B.prefab using Guid(488c1b23b5470bb4986ad7d362420766) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'bbefaed37f4652b1a8c4699113c77e89') in 0.048352 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ee878dbf935308f09bb9113cd3174bab DependenciesID=b9243aedea59197825a138ac610201f6 StaticDependenciesID=0471bfcbb8865715745ed1e9349e282b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_C.prefab
+  importAddress: Guid(23af1a39b0c5720b898eb5eefad5a1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_C.prefab using Guid(23af1a39b0c5720b898eb5eefad5a1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'bdd95e502ad689df5e07485a5438e69f') in 0.0500447 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=250ff7d11fce106561419fa0d7283e6f DependenciesID=7e00ca1182f854cdae83fb96d0ad77f1 StaticDependenciesID=fd3be49a643699fc919fe39bfdb1e2f1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/Showcase.unity
+  importAddress: Guid(ee7b3af939accaf96ac3ac92d34a377b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/Showcase.unity using Guid(ee7b3af939accaf96ac3ac92d34a377b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '9d6cbe975f926f4920c5fd2b6f5eb657') in 0.0006053 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=aef8753e1ec37d100f087f820b5afb2f DependenciesID=403be8556a2f2ae53724e73853ac4446 StaticDependenciesID=ce96fa2dce6b18d605964ac316464fa7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_C.prefab
+  importAddress: Guid(67d3abe897c93a08e9593b0a183f2bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_C.prefab using Guid(67d3abe897c93a08e9593b0a183f2bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '187f8a13c47e4da09a8e5346399a5d56') in 0.0410555 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=31a4560f561e853af37c6bc94368a169 DependenciesID=2a356805fd36a0c0a5c4a401f88b4f6b StaticDependenciesID=b7dde2ad4ec725d924f4495eb865b683 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_F.prefab
+  importAddress: Guid(9d642dd3a2ff904da90e9417ae5cddec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_F.prefab using Guid(9d642dd3a2ff904da90e9417ae5cddec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '400e9a3d668bdc16a2b4f9f8486dbfd6') in 0.0492998 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0b54ad3ce43c566100d80e26ee694b0d DependenciesID=6c8e7849335b186fb677c695993a349e StaticDependenciesID=5690713eeb85b1d638a8cebc7a158b76 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_E.prefab
+  importAddress: Guid(f6208658c4d45bf5c944dd7806489932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_E.prefab using Guid(f6208658c4d45bf5c944dd7806489932) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '70c67905fa5f8c072de53d3905a93708') in 0.042194 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=66354b8e914abddd7748ffd4593b88b0 DependenciesID=7d08f7d38c62f9c5f1acb53aafe86615 StaticDependenciesID=99ecdc1e345cb80e064b2c44f0b71757 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_C.prefab
+  importAddress: Guid(eba8e66cbe98e874f97ecf77638129b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_C.prefab using Guid(eba8e66cbe98e874f97ecf77638129b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ca5ed36acd4a7a2c28d49c0f75bd3dd7') in 0.0562551 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2c2670f09295fb0c3a9fefa65656f198 DependenciesID=9c1cabea7f4e96d6628910334e9a8b81 StaticDependenciesID=05a7d878d44b68f654db3a468e841436 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_B.prefab
+  importAddress: Guid(6a8478d973ae3ac75a084871ef5cbffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_B.prefab using Guid(6a8478d973ae3ac75a084871ef5cbffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6f71abc04c65820b7bc96bce72c874b0') in 0.0414569 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3128df67a195ec614b904d585ec1d719 DependenciesID=2fa9b0596db423445376328c1e250fdd StaticDependenciesID=c55edc9b74907a843da61c5c2d471391 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_D.prefab
+  importAddress: Guid(18ea0683a7392d274905c95e8ec4544b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/BlackPineTree_D.prefab using Guid(18ea0683a7392d274905c95e8ec4544b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a8c5c16e56ce27388af0b79108e1cbda') in 0.0455348 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ed66d9765e5a013cd42a8789340c0309 DependenciesID=acd78fdfe4477be3da914f3e7211d354 StaticDependenciesID=47db1327a1e11e8fbccc0ce7ac536f5a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes
+  importAddress: Guid(9b6dce7f9ef7d401691235744f82728f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes using Guid(9b6dce7f9ef7d401691235744f82728f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'd1b052f10103d7fea5a6aec654305f4d') in 0.0004763 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7053f65ac95b9a8dd68179ff43cb7c88 DependenciesID=3f1e0e95f62a3065af65d389ee79c375 StaticDependenciesID=6fb963ee29f90c5f17f1a13859fca702 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_A.prefab
+  importAddress: Guid(6e92187b7f5500614b9ca0ab3b1812a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_A.prefab using Guid(6e92187b7f5500614b9ca0ab3b1812a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '9311779598d8b4fa981e27b8a0059e24') in 0.0416829 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9d40af55becbbdf0bf11db5b8bfd2e8b DependenciesID=bb7fcecd825ce3fb7cccb68087568dd5 StaticDependenciesID=ac9c8d617bbd6c7f47e85a5e6556a3c3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_B.prefab
+  importAddress: Guid(9aaafd7584909db6aae1b9e564dc5ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/JapaneseMapleTree_B.prefab using Guid(9aaafd7584909db6aae1b9e564dc5ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '01fe9bfd972911dd8f70380dac10f9c3') in 0.0431919 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d7fd77b5d46a6ad07604660fdb2768a7 DependenciesID=4134d9c9c4aa99ef9d5dff76a4892cb9 StaticDependenciesID=1766ac0493db05acacaeb7eb66171803 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_A.prefab
+  importAddress: Guid(1d346702b2107531e939003fb256261b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_A.prefab using Guid(1d346702b2107531e939003fb256261b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ea75ecec7d9ac3ea26ca854c4f2d2153') in 0.0383566 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6395f99f238ace878bd949db741f5253 DependenciesID=030b20050d670fca2e3093fafaee1968 StaticDependenciesID=f742f66fc3d280a2e66bd00738ea018c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_D.prefab
+  importAddress: Guid(261441bc3708ec7aa8a2c288c3fab3ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Prefabs/SakuraTree_D.prefab using Guid(261441bc3708ec7aa8a2c288c3fab3ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '98e2d9190b5e5dbe47326427a5ae0bae') in 0.036441 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c9236537fd10b018d441f69fef0685ca DependenciesID=4739ef6f2ac150f0a49e7282bd4ca9fa StaticDependenciesID=80465ed692dd4a849c2c21f57571aee5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.489787 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/Showcase/ReflectionProbe-0.exr
+  importAddress: Guid(e11782c63c24ab0429317c999f837308) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/Showcase/ReflectionProbe-0.exr using Guid(e11782c63c24ab0429317c999f837308) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'beb83261ce5e76f35382b9ef60c9ae6a') in 0.0100315 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c7a1d5fa75c5edbd265e36e8ff069eb2 DependenciesID=599685f74a7583937b1ca2789a983342 StaticDependenciesID=b3bb1c84a9234bd04edfe82fa6f26139 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/Showcase/LightingData.asset
+  importAddress: Guid(bcb9b31c2daca3d4baac056f12c58dda) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/Showcase/LightingData.asset using Guid(bcb9b31c2daca3d4baac056f12c58dda) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f9919f495c238df5f223c50348e378d8') in 0.0044748 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d82dcb4a070a582c154329527800fd23 DependenciesID=b7aa6759ddc4f99e99c0e12e721edc4f StaticDependenciesID=542fc4187eff7ff813df19e948f279be 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/Showcase
+  importAddress: Guid(1099f1269a9ae8c48bac694f14157f54) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/Showcase using Guid(1099f1269a9ae8c48bac694f14157f54) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e59bd4b84b604ddf3d8225324e22f855') in 0.0077919 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8250414c61cffe04a5d8a44d17b8e53c DependenciesID=3fc1f5df2f94dc72d6904e0f729e8f74 StaticDependenciesID=eb924d9d45ebc8004ba8cf05a03a4aff 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.377204 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/JapaneseGarden.unity
+  importAddress: Guid(80a26d31b4c6248999e489e0894e9395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/JapaneseGarden.unity using Guid(80a26d31b4c6248999e489e0894e9395) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '5630f8c568fe2608eb9ec689a5809e84') in 0.0005659 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=336f1105e67eb3748a4081e9cbe7c5df DependenciesID=3b1278ae962be12533120f18f331cab0 StaticDependenciesID=c370feeb2e06cd2e418309a8478ed1c5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.918034 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/JapaneseGardenSettings.lighting
+  importAddress: Guid(bf54824fb0a35466399e65cbebb3175c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Scenes/JapaneseGardenSettings.lighting using Guid(bf54824fb0a35466399e65cbebb3175c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)LightingSettings: switching bake backend from 2 to 1.
+ -> (Import Result ID: '5e49932131e0bf6170284a07e53d5b71') in 0.0011812 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=861d1b2144789826b4dd354da32a64cd DependenciesID=937fa07e64b435aa369b68e1f5daa477 StaticDependenciesID=fbe43af68a172337815964d42f20e0bf 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+ADTM: Control thread waiting for realtime thread timed out, have to lock...
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.AppUI.Editor.Tests.dll at Library/ScriptAssemblies/Unity.AppUI.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.AppUI.Tests.dll at Library/ScriptAssemblies/Unity.AppUI.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.CoreUtils.CodeSamples.Tests.dll at Library/ScriptAssemblies/Unity.XR.CoreUtils.CodeSamples.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.CoreUtils.Editor.Tests.dll at Library/ScriptAssemblies/Unity.XR.CoreUtils.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.CoreUtils.Tests.dll at Library/ScriptAssemblies/Unity.XR.CoreUtils.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.Interaction.Toolkit.Editor.Tests.dll at Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.Interaction.Toolkit.Tests.dll at Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.Management.EditorTests.dll at Library/ScriptAssemblies/Unity.XR.Management.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.Management.TestPackage.dll at Library/ScriptAssemblies/Unity.XR.Management.TestPackage.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.Management.TestPackage.Editor.dll at Library/ScriptAssemblies/Unity.XR.Management.TestPackage.Editor.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.Management.Tests.dll at Library/ScriptAssemblies/Unity.XR.Management.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.Management.Tests.Standalone.dll at Library/ScriptAssemblies/Unity.XR.Management.Tests.Standalone.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.OpenXR.Editor.Tests.dll at Library/ScriptAssemblies/Unity.XR.OpenXR.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.OpenXR.Tests.dll at Library/ScriptAssemblies/Unity.XR.OpenXR.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.OpenXR.Ubuntu.Tests.dll at Library/ScriptAssemblies/Unity.XR.OpenXR.Ubuntu.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.XR.TestSupport.dll at Library/ScriptAssemblies/Unity.XR.TestSupport.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.XR.LegacyInputHelpers.Tests.dll at Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.SpatialTracking.Tests.dll at Library/ScriptAssemblies/UnityEngine.SpatialTracking.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.XR.OpenXR.CodeSamples.Editor.Tests.dll at Library/ScriptAssemblies/UnityEngine.XR.OpenXR.CodeSamples.Editor.Tests.dll not valid. Loading of assembly skipped.
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Refreshing native plugins compatible for Editor in 5.15 ms, found 8 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.641 seconds
+Domain Reload Profiling: 2350ms
+	BeginReloadAssembly (1209ms)
+		DisableScriptedObjects (16ms)
+		CreateAndSetChildDomain (1071ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (418ms)
+		LoadAssemblies (315ms)
+		AnalyzeDomain (172ms)
+			TypeCache.Refresh (6ms)
+			BuildScriptInfoCaches (155ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (642ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (131ms)
+			ProcessInitializeOnLoadAttributes (187ms)
+			ProcessInitializeOnLoadMethodAttributes (156ms)
+			AfterProcessingInitializeOnLoad (4ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 4.88 ms, found 8 plugins.
+Unloading 66 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 8495 unused Assets / (22.5 MB). Loaded Objects now: 9458.
+Memory consumption went from 251.4 MB to 229.0 MB.
+Total: 9.253400 ms (FindLiveObjects: 0.557700 ms CreateObjectMapping: 0.426800 ms MarkObjects: 4.015700 ms  DeleteObjects: 4.251700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 425.259716 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge
+  importAddress: Guid(62f7e079a2e23f64dadd5c19ea6236af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/japanese-bridge using Guid(62f7e079a2e23f64dadd5c19ea6236af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6ce3a6b20176650b14a1c2e28b6c30d9') in 0.0051427 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3019ce5b43c4a870c9a87b902956a205 DependenciesID=316f5fecc69a30092cb96a6b3e54bcf2 StaticDependenciesID=72919e84d24f17cdb29e8050b94bd7ba 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.406121 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source
+  importAddress: Guid(c663fd479216dc34ea81231ee7585a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/japanese-bridge/source using Guid(c663fd479216dc34ea81231ee7585a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '91a47d04f18493dec1abf3d719311c07') in 0.0005678 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=652bfff7b65104f644a8a71cb9c8be53 DependenciesID=d478625fcf87e8a9199b1fb93ec0d5e9 StaticDependenciesID=ca6d3329993329dacdeac3f354b566e5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.998026 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont.zip
+  importAddress: Guid(0164b9c3af5f95f4ba14a5833f4ed8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont.zip using Guid(0164b9c3af5f95f4ba14a5833f4ed8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'da78d80178175615017495fb1846c686') in 0.0128225 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4407b66f258f8c9c026dcb23e77281a0 DependenciesID=09f51aa33bcae73068227fc77dca2b4f StaticDependenciesID=174c35235fad6c77c03bae519a979d91 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.030537 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont.zip
+  importAddress: Guid(0164b9c3af5f95f4ba14a5833f4ed8d9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont.zip using Guid(0164b9c3af5f95f4ba14a5833f4ed8d9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'ce849372e4ca018b4c00648a8d041d5c') in 0.0483504 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=58780d8dab2f04d62c72ce338910551c DependenciesID=b6cfd13de026cdb79c5390706660c97f StaticDependenciesID=7c8a8e4bf1d61330de7961ff1b028a28 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/textures/Pont_OcclusionRoughnessMetallic.png
+  importAddress: Guid(6c570891719e06543b1760430eee898d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge/textures/Pont_OcclusionRoughnessMetallic.png using Guid(6c570891719e06543b1760430eee898d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4f187331615f8452a3570cc8cef8cac1') in 0.0412898 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ac9496a6fb5b1de611716c5f66dec554 DependenciesID=f4865853f0f4d5a84564962567b0d389 StaticDependenciesID=6dc108d982b393722665bd0fee1f9c72 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/textures
+  importAddress: Guid(e3261c1a19efb9e4095fb05cb0f15e18) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge/textures using Guid(e3261c1a19efb9e4095fb05cb0f15e18) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7e310cc7d38af311371afe525e2b0187') in 0.004261 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a94c4667bf4a62fa899ba2888764fec5 DependenciesID=5b6a5637b9309e9747dc8b13f6181837 StaticDependenciesID=1e392eed5d0a27b0b91afb5a3675fbb8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/textures/Pont_Normal.png
+  importAddress: Guid(4c8d09ec15db6a349913989b4084c941) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge/textures/Pont_Normal.png using Guid(4c8d09ec15db6a349913989b4084c941) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b79b69bf2e19e4135ff7ab5a5852d550') in 0.0087816 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bcaffee29be5b008f53370d9a7021b2b DependenciesID=a91a7b9b176325cbaf66dd430fec0ce6 StaticDependenciesID=41e886dbcb17c4492011528fb253ff6c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge
+  importAddress: Guid(62f7e079a2e23f64dadd5c19ea6236af) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge using Guid(62f7e079a2e23f64dadd5c19ea6236af) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '5b3f0ff099e83bff6bfb148b0c9929b0') in 0.0041456 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=24b68d8f64d93aa2163cd6854ea5561f DependenciesID=c91e8feaff348688f561144de5cf3409 StaticDependenciesID=4d89cc0710651b729eee91493d6de135 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/textures/Pont_BaseColor.png
+  importAddress: Guid(e7d67ec238614b94fbd04b394b93bde9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge/textures/Pont_BaseColor.png using Guid(e7d67ec238614b94fbd04b394b93bde9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8a2a06730f554f59e4b652dd746678df') in 0.0088493 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7cc9e27cb81a02e56a29140ed2b1a739 DependenciesID=dc87b8b52c5b4dfea8e108dc74969740 StaticDependenciesID=7d44175c398f555b21d1007a72a99e93 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source
+  importAddress: Guid(c663fd479216dc34ea81231ee7585a99) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge/source using Guid(c663fd479216dc34ea81231ee7585a99) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7ebdcf27abb83cf3c34e4e7a79b686d3') in 0.0042196 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=56dcc969106850f80b7795adca2be3b1 DependenciesID=661d8ce2d0d136e4af13ff6c4b6b0893 StaticDependenciesID=9112bbccb483b6e8767b4e74309c29e7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.477737 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont_OcclusionRoughnessMetallic.PNG
+  importAddress: Guid(dfa7003dd01fc6241be34b67451ecf07) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont_OcclusionRoughnessMetallic.PNG using Guid(dfa7003dd01fc6241be34b67451ecf07) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4e2f02350dd83e750e49557aa9bbf4eb') in 0.0153726 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6abfd8bb36c3924be9a68eba43287bb4 DependenciesID=2858b7a05fdac143de4d2bf4ca6314c7 StaticDependenciesID=31ab47c99ce9fdf896f8df9c1bb7b886 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont
+  importAddress: Guid(586a382d8b636cc4187cf90dceb0aa2a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont using Guid(586a382d8b636cc4187cf90dceb0aa2a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '222ce839ec67b175535743edaf5e7bf3') in 0.0044508 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ea34c9543daf172d51800e4424cafc98 DependenciesID=47feade0203be425ad4bab5ccdea00c6 StaticDependenciesID=a701210a427bfc9f9988f9d434e9f4cd 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont_Normal.PNG
+  importAddress: Guid(437c2ba8379ccd74ea1340d49726eb4f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont_Normal.PNG using Guid(437c2ba8379ccd74ea1340d49726eb4f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4b3ebecb78fb9e22cac85285ef06a358') in 0.0108397 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0f675021a8b375d6c9783d24fe36f0e0 DependenciesID=000b968524bd48b0063ee745fce0c786 StaticDependenciesID=c653ef8795a5d0ad27201b0143bbcb1b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont_BaseColor.PNG
+  importAddress: Guid(33d17abc140b68f44bb0a3b33d58448a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont_BaseColor.PNG using Guid(33d17abc140b68f44bb0a3b33d58448a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '9a4645524eab19c9528944320c244bf0') in 0.0130312 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2c285f310e01baea75746f9e45af9bb6 DependenciesID=e0a3050364108e2f5cd697e2219f07a7 StaticDependenciesID=f41e616120033ae871cc1d4352fe7eaa 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont.fbx
+  importAddress: Guid(eabc61243ceaccc42a84cf8046b6c9a2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont.fbx using Guid(eabc61243ceaccc42a84cf8046b6c9a2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '18917f45eef74d2a2936f6628e6f4d7a') in 0.0590116 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ecd76d6b62a0588e1bf2f47e62f76cd2 DependenciesID=8e2a2b5d24bef171a7824981278effee StaticDependenciesID=25690ba41cd14158720c9041fc1d645a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.058195 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont
+  importAddress: Guid(586a382d8b636cc4187cf90dceb0aa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont using Guid(586a382d8b636cc4187cf90dceb0aa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '4564a9cf8480f01c61e7f022f7cefc34') in 0.0005428 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=488b92c017b5892a6d43a3dca4ebf619 DependenciesID=7946dd81489e85effa6ff8be1982fa09 StaticDependenciesID=ce4edd4e1ada018a7270c7c35215c4d2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040673 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont.fbx
+  importAddress: Guid(eabc61243ceaccc42a84cf8046b6c9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont.fbx using Guid(eabc61243ceaccc42a84cf8046b6c9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '35aa59e926dd32860fdfd290f4850f98') in 0.3548563 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fa10af78cdacb2df3ea29250e9bd736c DependenciesID=0eca86a719a5e92031e2c5895593fa29 StaticDependenciesID=5bea2c655473a5d5d42db8ac3f86de1e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont_BaseColor.PNG
+  importAddress: Guid(33d17abc140b68f44bb0a3b33d58448a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont_BaseColor.PNG using Guid(33d17abc140b68f44bb0a3b33d58448a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '2cd6b9ed2db2db1bdb19981654cbba65') in 0.0105994 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3f58585864a485dfca13f97a69ad7e04 DependenciesID=344b374e1cd691048695d3fe73b4ebeb StaticDependenciesID=59868a9306adad44a0e0bbe5a16752e1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont_Normal.PNG
+  importAddress: Guid(437c2ba8379ccd74ea1340d49726eb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont_Normal.PNG using Guid(437c2ba8379ccd74ea1340d49726eb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '92f8877a035cb402c41e425ea77d95ac') in 0.0076476 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=571e28df94c06a6807c16988fa4db58a DependenciesID=ba83eed9a81d784e6f20b5be6cb54971 StaticDependenciesID=81f5596990c6c95383a6195bfc23b491 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont_OcclusionRoughnessMetallic.PNG
+  importAddress: Guid(dfa7003dd01fc6241be34b67451ecf07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont/Pont_OcclusionRoughnessMetallic.PNG using Guid(dfa7003dd01fc6241be34b67451ecf07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a874be8343d0e3f502479453f44ee29e') in 0.0076162 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f75ff3f7f2c16ff66b71b0f7214c3ef3 DependenciesID=9631a39f960113f00373d663624351aa StaticDependenciesID=8856908af268e896c3ae9decba642342 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.579713 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  importAddress: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '67dfbb33bb7b746682363ac5596e7b09') in 0.0006213 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f3af80aa444126da7ef9e80fc4827f87 DependenciesID=47196b02b68aeafab2a161c3cb8c0e29 StaticDependenciesID=f09ecf41f05e7156b9aabeb321818809 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.725174 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont/Materials
+  importAddress: Guid(22dd932c129d4144fbbd7e2681252943) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont/Materials using Guid(22dd932c129d4144fbbd7e2681252943) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1103598b6b077292790708380df2f52d') in 0.0036012 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bd1de323cdecb12d030f64f1e530a5e8 DependenciesID=52b235eb32c131091de97ccf200f5067 StaticDependenciesID=d56a30517095d1b7d45250ac721b45e3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_rock.mat
+  importAddress: Guid(1f420555c987bebdb81915cd43a47494) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocco_jg_rock.mat using Guid(1f420555c987bebdb81915cd43a47494) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '2d7f80607aa563eb5a3965d123f15387') in 0.00754 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3f636cf57307e9b9563aef62e483e0af DependenciesID=7301b9cce3e8ffb91139b2697be0d43d StaticDependenciesID=9e75469a479ac1b07026d3bad39902d6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocoo_jg_torii.mat
+  importAddress: Guid(b79139d6f5d25511b99bbda5b80c4caa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/brocoo_jg_torii.mat using Guid(b79139d6f5d25511b99bbda5b80c4caa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'cf55f7143e38b319fb092a03a00df496') in 0.0057879 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5fcbb094e0d442c839905d9cc8c4076d DependenciesID=625ac51b62b99db733e48099010e77e5 StaticDependenciesID=59cf7a5033e03a07eadf8f2d95ce2b44 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/AssetesDescargados/japanese-bridge/source/Pont/Materials/Pont_BaseColor.mat
+  importAddress: Guid(ce47b08c13b3f8b45a7800e72fb3a66e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/japanese-bridge/source/Pont/Materials/Pont_BaseColor.mat using Guid(ce47b08c13b3f8b45a7800e72fb3a66e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b26562f35ae4194ad6e96fa03f832c27') in 0.0067608 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6ce9c7d196fcdbfd7387e1d36f922082 DependenciesID=8d3bb89255648aedfaf555b8c93d0f45 StaticDependenciesID=66306264156601c66956dc6483c82347 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/CalibrationFloor.mat
+  importAddress: Guid(3a0079caf67afc01eae833b898b39a70) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AssetesDescargados/Waldemarst/JapaneseGardenPackage/Materials/CalibrationFloor.mat using Guid(3a0079caf67afc01eae833b898b39a70) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'fcff7f17de33e7b1203edf58f9986d8f') in 0.007405 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ded61be0f059006829991104ca8b2498 DependenciesID=a9200432796cc93e5076a7227cc86e35 StaticDependenciesID=b61f028e14965a2452027ad8c33a3eef 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.870938 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  importAddress: Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'cf4745d6358a5988e220360f2a66359b') in 0.0042353 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=624243494c2b3d809322fd69e7e7579b DependenciesID=40b62529eb19decf6448d82e6ab4fef0 StaticDependenciesID=287d9228d0b1a9581ab48b237b173aab 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
