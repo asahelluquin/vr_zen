@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 37
+  controlID: 40
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -69,8 +69,8 @@ MonoBehaviour:
     y: 0
     width: 312
     height: 812.8
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 112}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 38
+  controlID: 41
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 39
+  controlID: 42
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -652,23 +652,26 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
     m_SelectedIDs:
-    - m_Data: 57518
+    - m_Data: 57722
     m_LastClickedID:
-      m_Data: 57518
+      m_Data: 57722
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 57518
-    - m_Data: 57818
-    - m_Data: 60178
-    - m_Data: 60244
-    - m_Data: 60252
-    - m_Data: 60370
-    - m_Data: 60374
-    - m_Data: 60376
-    - m_Data: 69570
-    - m_Data: 69576
+    - m_Data: 57722
+    - m_Data: 57724
+    - m_Data: 57726
+    - m_Data: 57728
+    - m_Data: 57730
+    - m_Data: 57732
+    - m_Data: 58038
+    - m_Data: 58148
+    - m_Data: 58194
+    - m_Data: 58200
+    - m_Data: 60688
+    - m_Data: 60744
+    - m_Data: 60850
+    - m_Data: 62882
     - m_Data: 1000000000
-    - m_Data: 2147483647
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -702,7 +705,12 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 57518
+    - m_Data: 57722
+    - m_Data: 57724
+    - m_Data: 57726
+    - m_Data: 57728
+    - m_Data: 57730
+    - m_Data: 57732
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -752,7 +760,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
-      m_ClientGUIView: {fileID: 7}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_EntityId:
@@ -862,11 +870,17 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -22002
-      - m_Data: -16304
-      - m_Data: -15518
-      - m_Data: -14384
-      - m_Data: -9666
+      - m_Data: -39904
+      - m_Data: -36308
+      - m_Data: -35320
+      - m_Data: -34508
+      - m_Data: -26978
+      - m_Data: -24996
+      - m_Data: -8164
+      - m_Data: -6658
+      - m_Data: -5936
+      - m_Data: -2546
+      - m_Data: -2302
       - m_Data: -1364
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -1335,9 +1349,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -2.9631183, y: 15.181217, z: 29.205439}
+    m_Target: {x: 4.5044565, y: 2.0804324, z: 1.0016983}
     speed: 2
-    m_Value: {x: -2.9631183, y: 15.181217, z: 29.205439}
+    m_Value: {x: 4.5044565, y: 2.0804324, z: 1.0016983}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1384,20 +1398,20 @@ MonoBehaviour:
     m_gridOpacity: 0.5
     m_NearestPlaneToHandleMode: 0
   m_Rotation:
-    m_Target: {x: 0.055028483, y: -0.9188982, z: 0.1383234, w: 0.36556557}
+    m_Target: {x: -0.042938706, y: -0.6534708, z: -0.037449483, w: 0.7551468}
     speed: 2
-    m_Value: {x: 0.055189643, y: -0.9183792, z: 0.13824527, w: 0.3666362}
+    m_Value: {x: -0.04297251, y: -0.65239555, z: -0.037388265, w: 0.7557351}
   m_Size:
-    m_Target: 0.6314634
+    m_Target: 1.1785411
     speed: 2
-    m_Value: 0.6314634
+    m_Value: 1.1785411
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
+    m_Speed: 2
+    m_SpeedNormalized: 1
     m_SpeedMin: 0.01
     m_SpeedMax: 2
     m_EasingEnabled: 1
