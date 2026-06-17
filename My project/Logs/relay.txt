@@ -200,3 +200,39 @@
 [2026-05-22T02:03:42.369Z] [INFO] log Shutdown request received from client editor-28348-cnmy5x
 [2026-05-22T02:03:42.374Z] [INFO] log Unity client requested immediate shutdown - shutting down now, reason: Shutdown requested by client
 [2026-05-22T02:03:42.374Z] [INFO] log Shutdown: Initiating graceful shutdown: Shutdown requested by client
+[2026-06-12T18:53:13.435Z] [INFO] log Initializing relay components...
+[2026-06-12T18:53:13.372Z] [INFO] relay.startup port=9001 mcpClientPort=9002 editorPid=9052
+[2026-06-12T18:53:13.433Z] [INFO] log Parsed config: {"port":9001,"mcpClientPort":9002,"editorPid":"9052","shutdownDelaySeconds":180}
+[2026-06-12T18:53:13.433Z] [INFO] log Starting relay server...
+[2026-06-12T18:53:13.433Z] [INFO] log Command line arguments: ["bun","B:/~BUN/root/relay_win.exe","--relay","--port","9001","--mcp-client-port","9002","--editor-pid","9052","--shutdown-delay","180","--log-dir","A:\\unityprojects\\vrzen\\vr_zen\\My project\\Logs"]
+[2026-06-12T18:53:13.432Z] [INFO] log === RELAY SERVER STARTED === (unity-ai-relay v1.0.12-build.96)
+[2026-06-12T18:53:13.435Z] [INFO] log Creating RelayEditor...
+[2026-06-12T18:53:13.644Z] [INFO] log WebSocket server started
+[2026-06-12T18:53:13.644Z] [INFO] log Relay server initialization completed
+[2026-06-12T18:53:13.645Z] [INFO] log MCP Client initialized at port: 9002
+[2026-06-12T18:53:13.664Z] [WARN] log [shell-env] Shell environment did not contain a PATH variable
+[2026-06-12T18:53:13.785Z] [INFO] log Unity MCP Relay server started | Port: 9002 | Endpoints: /mcp/start-server, /mcp/stop-server, /mcp/server-status, /mcp/call-tool
+[2026-06-12T18:53:14.023Z] [INFO] log Unity client connected with ID: editor-9052-xoax8t (relay 1.0.12-build.96)
+[2026-06-12T18:53:14.023Z] [INFO] connection.established clientId=editor-9052-xoax8t port=9001
+[2026-06-12T18:53:16.926Z] [DEBUG] log Relay->Editor communication is blocked
+[2026-06-12T18:53:16.928Z] [INFO] log Auto-shutdown timer started due to client disconnection
+[2026-06-12T18:53:16.927Z] [WARN] log Client disconnected - sessions will persist until auto-shutdown, reason: Client disconnected
+[2026-06-12T18:53:16.927Z] [WARN] connection.lost clientId=null
+[2026-06-12T18:53:16.927Z] [INFO] log Client disconnected - blocking and caching for recovery
+[2026-06-12T18:53:16.927Z] [DEBUG] acp.queue.pause depth=0
+[2026-06-12T18:56:16.957Z] [INFO] log Auto-shutdown timer fired after 180s inactivity, shutting down: Dedicated client disconnected
+[2026-06-12T18:56:17.007Z] [INFO] log Shutdown: Initiating graceful shutdown: Dedicated client disconnected
+[2026-06-12T18:58:41.948Z] [INFO] relay.startup port=9001 mcpClientPort=9002 editorPid=9052
+[2026-06-12T18:58:41.961Z] [INFO] log Creating RelayEditor...
+[2026-06-12T18:58:41.960Z] [INFO] log Initializing relay components...
+[2026-06-12T18:58:41.951Z] [INFO] log Parsed config: {"port":9001,"mcpClientPort":9002,"editorPid":"9052","shutdownDelaySeconds":180}
+[2026-06-12T18:58:41.951Z] [INFO] log Command line arguments: ["bun","B:/~BUN/root/relay_win.exe","--relay","--port","9001","--mcp-client-port","9002","--editor-pid","9052","--shutdown-delay","180","--log-dir","A:\\unityprojects\\vrzen\\vr_zen\\My project\\Logs"]
+[2026-06-12T18:58:41.951Z] [INFO] log Starting relay server...
+[2026-06-12T18:58:41.950Z] [INFO] log === RELAY SERVER STARTED === (unity-ai-relay v1.0.12-build.96)
+[2026-06-12T18:58:41.980Z] [INFO] log WebSocket server started
+[2026-06-12T18:58:41.980Z] [INFO] log Relay server initialization completed
+[2026-06-12T18:58:41.981Z] [INFO] log MCP Client initialized at port: 9002
+[2026-06-12T18:58:41.997Z] [WARN] log [shell-env] Shell environment did not contain a PATH variable
+[2026-06-12T18:58:42.026Z] [INFO] log Unity MCP Relay server started | Port: 9002 | Endpoints: /mcp/start-server, /mcp/stop-server, /mcp/server-status, /mcp/call-tool
+[2026-06-12T18:58:42.683Z] [INFO] log Unity client connected with ID: editor-9052-x8xn0v (relay 1.0.12-build.96)
+[2026-06-12T18:58:42.683Z] [INFO] connection.established clientId=editor-9052-x8xn0v port=9001
