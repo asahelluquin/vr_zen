@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da9b42856e07b5a428e4c939f6bc14eb
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/MI_SJB_Door01A.hlsl
+  uploadId: 715581

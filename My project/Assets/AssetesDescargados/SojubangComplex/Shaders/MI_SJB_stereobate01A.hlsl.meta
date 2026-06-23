@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f295e51cbf661d45a454cef1e8a1fec
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/MI_SJB_stereobate01A.hlsl
+  uploadId: 715581

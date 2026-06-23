@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d9bf0ed973cb694eb2a318c9b6c4e9d
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/MI_SJB_Roof02A.hlsl
+  uploadId: 715581

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0af21e2ed90844740b445c1a251c54b9
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/MI_SJB_RedWood01A.hlsl
+  uploadId: 715581

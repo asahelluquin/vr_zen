@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad7873331121b8c44afbe0e2f63158b7
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/MI_SJB_IronDoor01A.hlsl
+  uploadId: 715581

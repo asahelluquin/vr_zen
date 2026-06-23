@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 10fc1d6347017d740bfc3c03a66dec4d
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/MI_SJB_Whitepaper01A.hlsl
+  uploadId: 715581

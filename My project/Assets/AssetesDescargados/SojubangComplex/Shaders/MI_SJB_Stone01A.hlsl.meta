@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8369ab532f9eef44b28ee3859cca441
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/MI_SJB_Stone01A.hlsl
+  uploadId: 715581

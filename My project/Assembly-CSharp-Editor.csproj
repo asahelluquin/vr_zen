@@ -53,6 +53,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
+    <Compile Include="Assets\AssetesDescargados\DenysAlmaral\FishAlive\Scripts\Editor\ReadmeReaderEditor.cs" />
+    <Compile Include="Assets\AssetesDescargados\DenysAlmaral\FishAlive\Scripts\Editor\ReadmeReader.cs" />
+    <Compile Include="Assets\AssetesDescargados\Bitgem\StylisedWater\URP\Scripts\Bitgem\Editor\FlagEnumAttributeDrawer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1528,6 +1531,7 @@
     <ProjectReference Include="Assembly-CSharp.csproj" />
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj" />
+    <ProjectReference Include="sc.skyboxes.demo.runtime.csproj" />
   </ItemGroup>
   <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
   <ItemGroup>

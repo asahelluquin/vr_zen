@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93e4a8d1a1752cd45bf6071d742d892e
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/MI_SJB_StoneWall02A.hlsl
+  uploadId: 715581

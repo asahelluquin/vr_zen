@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 148f9eab6876a474e9f08593aebc5a78
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/MI_SJB_Rafter02C.hlsl
+  uploadId: 715581

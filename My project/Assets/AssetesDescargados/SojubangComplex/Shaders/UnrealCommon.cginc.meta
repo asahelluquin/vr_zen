@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f8333a9698503344855ca7d0c3f9f30
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/UnrealCommon.cginc
+  uploadId: 715581

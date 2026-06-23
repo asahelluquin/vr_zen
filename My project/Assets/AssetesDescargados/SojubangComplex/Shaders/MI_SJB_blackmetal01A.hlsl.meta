@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1107758c894fce340bc8f15cf1103716
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/MI_SJB_blackmetal01A.hlsl
+  uploadId: 715581

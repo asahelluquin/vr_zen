@@ -926,11 +926,11 @@ PlayerSettings:
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: af7b44af-baba-4b8b-9d15-3c5e870ddbda
+  cloudProjectId: b6c379a9-9f3e-42e2-aa6f-70ccd24ba045
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project 2026-05-21_15-40-03
-  organizationId: mcstox
+  projectName: My project
+  organizationId: hrugarcia
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

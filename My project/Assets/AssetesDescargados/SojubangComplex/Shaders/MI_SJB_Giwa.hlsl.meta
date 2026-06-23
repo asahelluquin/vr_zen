@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6106e3d3fad7bb346a28634f0d4f19d3
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/MI_SJB_Giwa.hlsl
+  uploadId: 715581

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 31210e03e25156a4cb8dc062e05af9b1
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/MI_SJB_Soro01A.hlsl
+  uploadId: 715581

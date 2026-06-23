@@ -52,36 +52,110 @@
     <Analyzer Include="C:\Git\vr_zen\My project\Library\PackageCache\com.unity.dt.app-ui@8ac7e730dd5d\Runtime\MVVM\SourceGenerators\netstandard2.0\MVVMSourceGenerators.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AssetesDescargados\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeHelper.cs" />
+    <Compile Include="Assets\AssetesDescargados\living birds\demo\livingBirdsDemoScript.cs" />
+    <Compile Include="Assets\AssetesDescargados\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBox.cs" />
     <Compile Include="Assets\myassets\scripts\ZenObjectSpawner.cs" />
+    <Compile Include="Assets\AssetesDescargados\DenysAlmaral\FishAlive\Scripts\ReachPoint.cs" />
+    <Compile Include="Assets\AssetesDescargados\DenysAlmaral\FishAlive\Scripts\FishConstant.cs" />
+    <Compile Include="Assets\AssetesDescargados\living birds\scripts\lb_Bird.cs" />
+    <Compile Include="Assets\AssetesDescargados\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WateverVolumeFloater.cs" />
+    <Compile Include="Assets\AssetesDescargados\Petal Particles - Cherry Petals\Demo Scene\Script\DemoScene.cs" />
+    <Compile Include="Assets\myassets\scripts\FishSpawner.cs" />
     <Compile Include="Assets\myassets\scripts\breathingToggleInput.cs" />
+    <Compile Include="Assets\myassets\scripts\PlayerControl.cs" />
+    <Compile Include="Assets\AssetesDescargados\living birds\scripts\lb_BirdController.cs" />
     <Compile Include="Assets\AssetesDescargados\Waldemarst\Broccoli\Controller\BroccoTreeController_1_2_5.cs" />
+    <Compile Include="Assets\AssetesDescargados\DenysAlmaral\FishAlive\Scripts\SwimConfig.cs" />
+    <Compile Include="Assets\AssetesDescargados\DenysAlmaral\FishAlive\Scripts\FishMotion.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\myassets\scripts\BreathingGuide.cs" />
+    <Compile Include="Assets\AssetesDescargados\living birds\scripts\lb_CrowProximity.cs" />
+    <Compile Include="Assets\AssetesDescargados\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBase.cs" />
+    <Compile Include="Assets\AssetesDescargados\Bitgem\StylisedWater\URP\Scripts\Bitgem\Core\FlagEnumAttribute.cs" />
+    <Compile Include="Assets\AssetesDescargados\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeTransforms.cs" />
+    <Compile Include="Assets\AssetesDescargados\Splash of Color - Unique Photogrammetry Plants\Script\BillboardScript.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Whitepaper01A.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_blackmetal01A.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Soro01A.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Giwa.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Rafter01A.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\AssetesDescargados\DenysAlmaral\FishAlive\URP&amp;Built-in\Readme.txt" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_StoneWall02A.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Rafter02C.hlsl" />
+    <None Include="Assets\AssetesDescargados\StylizedRocksPackFREE\Documentation\Readme.txt.txt" />
+    <None Include="Assets\AssetesDescargados\Petal Particles - Cherry Petals\ReadMe.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Wood.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Wall01A.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Ground01A.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_StoneWall01A.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_StoneB.hlsl" />
     <None Include="Assets\AssetesDescargados\Waldemarst\JapaneseGardenPackage\Textures\Credits.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\LargeWorldCoordinates.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_StoneWall01B.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Floor01A.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Stone01A.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\AssetesDescargados\JTS_StoneLanterns\_ReadMe.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_RedWood01A.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Wood01A.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Door01A.hlsl" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_ChangBang01A.hlsl" />
+    <None Include="Assets\AssetesDescargados\DenysAlmaral\FishAlive\Readme_FreeSamples.txt" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_StoneWall01B.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Wall01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_ChangBang01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Wood01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Ground01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Rafter02C.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Floor01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Soro01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_blackmetal01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_RedWood01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_stereobate01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Stone01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_StoneWall02A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Roof02A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Wood.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Giwa.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Concrate.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Whitepaper01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Rafter01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_StoneB.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Door01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Rafter02B.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_IronDoor01A.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_StoneWall01A.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Roof02A.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Rafter02B.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_IronDoor01A.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\AssetesDescargados\Splash of Color - Unique Photogrammetry Plants\Documentation\README.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_Concrate.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\LWCOperations.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\MI_SJB_stereobate01A.hlsl" />
+    <None Include="Assets\AssetesDescargados\SojubangComplex\Shaders\UnrealCommon.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
@@ -1505,6 +1579,7 @@
   <ItemGroup>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj" />
+    <ProjectReference Include="sc.skyboxes.demo.runtime.csproj" />
   </ItemGroup>
   <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
   <ItemGroup>

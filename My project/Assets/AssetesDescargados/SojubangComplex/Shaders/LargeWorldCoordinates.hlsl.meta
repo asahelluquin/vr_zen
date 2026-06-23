@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1814580edae7be4468e7cbba33e69300
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/LargeWorldCoordinates.hlsl
+  uploadId: 715581

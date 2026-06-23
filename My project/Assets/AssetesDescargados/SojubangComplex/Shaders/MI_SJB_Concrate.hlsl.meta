@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9eb790428bb6b7047b9d3919fc8034a6
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/MI_SJB_Concrate.hlsl
+  uploadId: 715581

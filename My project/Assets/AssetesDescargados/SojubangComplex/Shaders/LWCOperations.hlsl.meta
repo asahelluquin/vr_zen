@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe50cbfbb2b98d940bf8080a6c42534d
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304772
+  packageName: KHS-Sojubang, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/AssetesDescargados/SojubangComplex/Shaders/LWCOperations.hlsl
+  uploadId: 715581
